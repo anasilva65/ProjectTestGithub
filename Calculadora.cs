@@ -6,8 +6,8 @@ namespace aula1
     {
         static void Main(string[] args)
         {
-            int A = 0
-            int B = 1
+            int A = 0;
+            int B = 1;
             string operacao = "";
 
             Console.WriteLine ("Por favor escolha a operacao ? \r\n" +
@@ -16,5 +16,9 @@ namespace aula1
             operacao = Console.ReadLine();
 
             }
+
+             }
+
+             }
             
             
